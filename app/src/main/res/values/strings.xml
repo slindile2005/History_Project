@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">History Project</string>
+    <string name="clear">Clear</string>
+    <string name="generate_the_history">Generate The history</string>
+    <string name="enter_the_age">ENTER THE AGE</string>
+    <string name="result">Result</string>
+</resources>
